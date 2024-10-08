@@ -8,6 +8,9 @@ A Node.js project that leverages the OpenAI API to generate images based on user
 - Fully responsive web interface
 - Bundled and minified JavaScript and CSS for production
 
+![Example Image](./example-image.png)
+
+
 ## Prerequisites
 
 To run this project, you'll need:
